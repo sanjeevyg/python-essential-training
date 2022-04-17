@@ -10,6 +10,7 @@ def main():
 
 def message():
     print("This is python version {}".format(version))
+    print(f'This is python version {version}')
     if False:
         print("4")
     else: 
